@@ -27,3 +27,10 @@
   #act{
     color:black;
   }
+  #im1{
+    display: grid;
+    grid-template-columns: 410px 1fr;
+  }
+  #im2{
+    padding-left: 1px;
+  }
